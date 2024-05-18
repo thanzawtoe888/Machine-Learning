@@ -1,0 +1,66 @@
+========= Area, Bedroom, Bathroom, Floor =========
+Mean absolute error:  1272201.1551177937
+Mean squared error:  3918355008242.44
+R2 score is:  0.8166430700915279
+Mean absolute error:  2000652.9238954654
+Mean squared error:  9670946707691.94
+R2 score is:  0.6678380163872966
+
+========added furnish encoded value========
+Mean absolute error:  1205656.3647791364
+Mean squared error:  3545625447884.139
+R2 score is:  0.8340847127527138
+Mean absolute error:  1945776.3166063756
+Mean squared error:  9126386477820.574
+R2 score is:  0.6865416874567272
+
+=====added province encoded value=====
+Mean absolute error:  1031579.3817972528
+Mean squared error:  2805709669072.484
+R2 score is:  0.8687086009170981
+Mean absolute error:  1864776.877340879
+Mean squared error:  8512393301917.982
+R2 score is:  0.7076301286814377
+
+
+======= Linear with selected feature Area, Bedroom, Bathroom, Floor ==
+Mean absolute error:  1511473.3042306267
+Mean squared error:  5542128792847.89
+R2 score is:  0.740659608821473
+Mean absolute error:  2046095.8514283735
+Mean squared error:  10011299480294.42
+R2 score is:  0.6561481316745823
+
+====== Linear with all feature (encoded value included) =======
+Mean absolute error:  1313270.7554670232
+Mean squared error:  4596575908123.393
+R2 score is:  0.784906154538868
+Mean absolute error:  1666017.0312375245
+Mean squared error:  8035165565427.71
+R2 score is:  0.7240211725346242
+
+====== Linear with degree 1 ======
+Mean absolute error:  1313270.755467024
+Mean squared error:  4596575908123.393
+R2 score is:  0.784906154538868
+Mean absolute error:  1666017.0312375242
+Mean squared error:  8035165565427.704
+R2 score is:  0.7240211725346244
+
+
+=== bro snla ====
+Mean absolute error:  1173580.7197457114
+Mean squared error:  3498738722065.829
+R2 score is:  0.836278747259904
+Mean absolute error:  1881362.0990319096
+Mean squared error:  8554049273294.467
+R2 score is:  0.7061993969754381
+
+=== test with order 2 without province ====
+Mean absolute error:  1205656.3647791364
+Mean squared error:  3545625447884.139
+R2 score is:  0.8340847127527138
+Mean absolute error:  1945776.3166063756
+Mean squared error:  9126386477820.574
+R2 score is:  0.6865416874567272
+
